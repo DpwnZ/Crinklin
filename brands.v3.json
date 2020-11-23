@@ -3,11 +3,11 @@
   "brands": [{
     "identifier": "1",
     "name": "ABUniverse",
-    "logoImage": {"remoteURLString": "https://raw.githubusercontent.com/DpwnZ/Crinklin/main/images/brands/abu.png?token=AJ3FDP4ULD7MULMVRN32JT27XQBJI"}
+    "logoImage": {"remoteURLString": "https://raw.githubusercontent.com/DpwnZ/Crinklin/main/images/brands/abu.png"}
   }, {
     "identifier": "2",
     "name": "Dry Care",
-    "logoImage": {"remoteURLString": "https://crinklesapp.com/images/brands/drycare.png"}
+    "logoImage": {"remoteURLString": "https://raw.githubusercontent.com/DpwnZ/Crinklin/main/images/brands/drycare.png"}
   }, {
     "identifier": "3",
     "name": "Forsite Health",
