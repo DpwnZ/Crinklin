@@ -1,0 +1,116 @@
+{
+  "version": 20,
+  "brands": [{
+    "identifier": "1",
+    "name": "ABUniverse",
+    "logoImage": {"remoteURLString": "https://crinklesapp.com/images/brands/abu.png"}
+  }, {
+    "identifier": "2",
+    "name": "Dry Care",
+    "logoImage": {"remoteURLString": "https://crinklesapp.com/images/brands/drycare.png"}
+  }, {
+    "identifier": "3",
+    "name": "Forsite Health",
+    "logoImage": {"remoteURLString": "https://crinklesapp.com/images/brands/forsite.png"}
+  }, {
+    "identifier": "4",
+    "name": "Bambino Diapers",
+    "logoImage": {"remoteURLString": "https://crinklesapp.com/images/brands/bambino_diapers.png"}
+  }, {
+    "identifier": "5",
+    "name": "Rearz",
+    "logoImage": {"remoteURLString": "https://crinklesapp.com/images/brands/rearz.png"}
+  }, {
+    "identifier": "6",
+    "name": "Crinklz",
+    "logoImage": {"remoteURLString": "https://crinklesapp.com/images/brands/crinklz.png"}
+  }, {
+    "identifier": "7",
+    "name": "Snuggies",
+    "logoImage": {"remoteURLString": "https://crinklesapp.com/images/brands/snuggies.png"}
+  }, {
+    "identifier": "8",
+    "name": "Tykables",
+    "logoImage": {"remoteURLString": "https://crinklesapp.com/images/brands/tykables.png"}
+  }, {
+    "identifier": "9",
+    "name": "Abena",
+    "logoImage": {"remoteURLString": "https://crinklesapp.com/images/brands/abena.png"}
+  }, {
+    "identifier": "10",
+    "name": "FAB SENSE",
+    "logoImage": {"remoteURLString": "https://crinklesapp.com/images/brands/fabsense.png"}
+  }, {
+    "identifier": "11",
+    "name": "LittleForBig",
+    "logoImage": {"remoteURLString": "https://crinklesapp.com/images/brands/littleforbig.png"}
+  }, {
+    "identifier": "getnappied",
+    "name": "GetNappied",
+    "logoImage": {"remoteURLString": "https://crinklesapp.com/images/brands/getnappied.png"}
+  }, {
+    "identifier": "changingtimes",
+    "name": "Changing Times Diaper Co.",
+    "logoImage": {"remoteURLString": "https://crinklesapp.com/images/brands/changingtimes.png"}
+  }, {
+    "identifier": "bumooza",
+    "name": "Bumooza",
+    "logoImage": {"remoteURLString": "https://crinklesapp.com/images/brands/bumooza.png"}
+  }, {
+    "identifier": "comfycare",
+    "name": "BetterDry",
+    "logoImage": {"remoteURLString": "https://crinklesapp.com/images/brands/betterdry.png"}
+  }, {
+    "identifier": "saveexpress",
+    "name": "Save Express",
+    "logoImage": {"remoteURLString": "https://crinklesapp.com/images/brands/saveexpress.png"}
+  }, {
+    "identifier": "tena",
+    "name": "Tena",
+    "logoImage": {"remoteURLString": "https://crinklesapp.com/images/brands/tena.png"}
+  }, {
+    "identifier": "northshore",
+    "name": "NorthShore",
+    "logoImage": {"remoteURLString": "https://crinklesapp.com/images/brands/northshore.png"}
+    }, {
+    "identifier": "hartmann",
+    "name": "Hartmann",
+    "logoImage": {"remoteURLString": "https://crinklesapp.com/images/brands/hartmann.png"}
+  }, {
+    "identifier": "id",
+    "name": "iD",
+    "logoImage": {"remoteURLString": "https://crinklesapp.com/images/brands/id.png"}
+  }, {
+    "identifier": "attends",
+    "name": "Attends",
+    "logoImage": {"remoteURLString": "https://crinklesapp.com/images/brands/attends.png"}
+  }, {
+    "identifier": "seni",
+    "name": "Seni",
+    "logoImage": {"remoteURLString": "https://crinklesapp.com/images/brands/seni.png"}
+  }, {
+    "identifier": "tranquility",
+    "name": "Tranquility",
+    "logoImage": {"remoteURLString": "https://crinklesapp.com/images/brands/tranquility.png"}
+  }, {
+    "identifier": "xpmedical",
+    "name": "XP Medical",
+    "logoImage": {"remoteURLString": "https://crinklesapp.com/images/brands/xpmedical.png"}
+  }, {
+    "identifier": "huggies",
+    "name": "Huggies",
+    "logoImage": {"remoteURLString": "https://crinklesapp.com/images/brands/huggies.png"}
+  }, {
+    "identifier": "totaldry",
+    "name": "TotalDry",
+    "logoImage": {"remoteURLString": "https://crinklesapp.com/images/brands/totaldry.png"}
+  }, {
+    "identifier": "incontrol",
+    "name": "Incontrol",
+    "logoImage": {"remoteURLString": "https://crinklesapp.com/images/brands/incontrol.png"}
+  }, {
+    "identifier": "fabine",
+    "name": "Fabine",
+    "logoImage": {"remoteURLString": "https://crinklesapp.com/images/brands/fabine_custom.png"}
+  }]
+}
