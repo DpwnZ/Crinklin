@@ -3,7 +3,7 @@
   "brands": [{
     "identifier": "1",
     "name": "ABUniverse",
-    "logoImage": {"remoteURLString": "https://crinklesapp.com/images/brands/abu.png"}
+    "logoImage": {"remoteURLString": "https://raw.githubusercontent.com/DpwnZ/Crinklin/main/images/brands/abu.png?token=AJ3FDP4ULD7MULMVRN32JT27XQBJI"}
   }, {
     "identifier": "2",
     "name": "Dry Care",
