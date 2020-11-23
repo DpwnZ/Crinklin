@@ -7,7 +7,7 @@
     "diaperName": "Little Pawz",
     "sizes": ["small", "smallmedium", "medium", "large", "xlarge"],
     "images": [{
-      "remoteURLString": "https://crinklesapp.com/images/diapers/abu_littlepawz_1.jpg"
+      "remoteURLString": "https://raw.githubusercontent.com/DpwnZ/Crinklin/main/images/diapers/abu_littlepawz_1.jpg"
     }]
   }, {
     "identifier": "2",
@@ -25,7 +25,7 @@
     "diaperName": "Simple",
     "sizes": ["small", "medium", "large", "xlarge"],
     "images": [{
-      "remoteURLString": "https://crinklesapp.com/images/diapers/abu_simple_1.jpg"
+      "remoteURLString": "https://github.com/DpwnZ/Crinklin/blob/main/images/diapers/abu_simple_1.jpg"
     }]
   }, {
     "identifier": "abu-simple-ultra",
@@ -34,7 +34,7 @@
     "diaperName": "Simple Ultra",
     "sizes": ["medium", "large", "xlarge"],
     "images": [{
-      "remoteURLString": "https://crinklesapp.com/images/diapers/abu_simple_1.jpg"
+      "remoteURLString": "https://github.com/DpwnZ/Crinklin/blob/main/images/diapers/abu_simple_1.jpg"
     }]
   }, {
     "identifier": "4",
